@@ -1,1 +1,1 @@
-pub mod entrypoint
+pub mod entrypoint;
